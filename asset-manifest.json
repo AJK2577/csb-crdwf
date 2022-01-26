@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ajk2577.github.io/csb-crdwf/static/css/main.cdcdadfc.chunk.css",
+    "main.js": "https://ajk2577.github.io/csb-crdwf/static/js/main.cb1c68a4.chunk.js",
+    "main.js.map": "https://ajk2577.github.io/csb-crdwf/static/js/main.cb1c68a4.chunk.js.map",
+    "runtime-main.js": "https://ajk2577.github.io/csb-crdwf/static/js/runtime-main.314e74c6.js",
+    "runtime-main.js.map": "https://ajk2577.github.io/csb-crdwf/static/js/runtime-main.314e74c6.js.map",
+    "static/js/2.5e0525f0.chunk.js": "https://ajk2577.github.io/csb-crdwf/static/js/2.5e0525f0.chunk.js",
+    "static/js/2.5e0525f0.chunk.js.map": "https://ajk2577.github.io/csb-crdwf/static/js/2.5e0525f0.chunk.js.map",
+    "index.html": "https://ajk2577.github.io/csb-crdwf/index.html",
+    "static/css/main.cdcdadfc.chunk.css.map": "https://ajk2577.github.io/csb-crdwf/static/css/main.cdcdadfc.chunk.css.map",
+    "static/js/2.5e0525f0.chunk.js.LICENSE.txt": "https://ajk2577.github.io/csb-crdwf/static/js/2.5e0525f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.314e74c6.js",
+    "static/js/2.5e0525f0.chunk.js",
+    "static/css/main.cdcdadfc.chunk.css",
+    "static/js/main.cb1c68a4.chunk.js"
+  ]
+}
